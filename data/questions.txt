@@ -1,0 +1,80 @@
+1|Java|Which keyword is used to define a class in Java?
+define|class|Class|struct
+B
+---
+2|Java|What is the default value of an int variable in Java?
+null|undefined|0|-1
+C
+---
+3|Java|Which of the following is NOT a Java OOP principle?
+Encapsulation|Polymorphism|Compilation|Inheritance
+C
+---
+4|Java|Which collection class allows duplicate elements and maintains insertion order?
+HashSet|TreeSet|ArrayList|HashMap
+C
+---
+5|Java|What does JVM stand for?
+Java Virtual Machine|Java Variable Method|Java Verified Module|Java Visual Manager
+A
+---
+6|Java|Which exception is thrown when dividing an integer by zero?
+NullPointerException|ArithmeticException|NumberFormatException|IllegalArgumentException
+B
+---
+7|Java|Which access modifier makes a member accessible only within its own class?
+public|protected|default|private
+D
+---
+8|Java|What is the size of a 'char' data type in Java?
+8 bits|16 bits|32 bits|64 bits
+B
+---
+9|OOP|Which OOP concept hides implementation details from the user?
+Inheritance|Polymorphism|Encapsulation|Abstraction
+D
+---
+10|OOP|Which keyword is used to inherit a class in Java?
+implements|extends|inherits|super
+B
+---
+11|OOP|What is method overloading?
+Same name, same parameters|Different name, same return type|Same name, different parameters|Same name, different return type only
+C
+---
+12|OOP|Which keyword refers to the parent class in Java?
+this|base|super|parent
+C
+---
+13|DSA|What is the time complexity of binary search?
+O(n)|O(n²)|O(log n)|O(n log n)
+C
+---
+14|DSA|Which data structure uses LIFO order?
+Queue|Stack|LinkedList|Tree
+B
+---
+15|DSA|Which sorting algorithm has the best average-case time complexity?
+Bubble Sort|Selection Sort|Insertion Sort|Merge Sort
+D
+---
+16|General CS|What does CPU stand for?
+Central Processing Unit|Computer Personal Unit|Central Program Utility|Core Processing Unit
+A
+---
+17|General CS|Which protocol is used for sending emails?
+FTP|HTTP|SMTP|TCP
+C
+---
+18|General CS|Which layer of the OSI model handles routing?
+Physical|Data Link|Network|Transport
+C
+---
+19|General CS|What does HTML stand for?
+Hyper Text Markup Language|High Text Manipulation Language|Hyper Transfer Markup Language|Hyper Text Modern Language
+A
+---
+20|General CS|Which of the following is a compiled language?
+Python|JavaScript|Java|Ruby
+C
+---
